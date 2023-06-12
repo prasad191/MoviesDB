@@ -10,7 +10,7 @@ To run the MoviesDB app locally or make any modifications, follow the steps belo
 2. Obtain an API key from OMDB by signing up on their website: [OMDB API](https://www.omdbapi.com/)
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/moviesdb.git`
+1. Clone the repository: `git clone https://github.com/prasad191/moviesdb.git`
 2. Navigate to the project directory: `cd moviesdb`
 3. Install the dependencies: `npm install`
 4. Create a `.env` file in the root directory and add your OMDB API key:
